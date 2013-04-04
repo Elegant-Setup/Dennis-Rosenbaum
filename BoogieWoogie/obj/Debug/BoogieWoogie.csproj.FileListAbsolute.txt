@@ -1,0 +1,10 @@
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\bin\Debug\BoogieWoogie.exe.config
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\bin\Debug\BoogieWoogie.exe
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\bin\Debug\BoogieWoogie.pdb
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\obj\Debug\BoogieWoogie.csprojResolveAssemblyReference.cache
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\obj\Debug\BoogieWoogie.MainForm.resources
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\obj\Debug\BoogieWoogie.Properties.Resources.resources
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\obj\Debug\BoogieWoogie.BoogieWoogieDrawing.resources
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\obj\Debug\BoogieWoogie.csproj.GenerateResource.Cache
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\obj\Debug\BoogieWoogie.exe
+C:\Deresen\JensDennisBv.BoogieWoogie\BoogieWoogie\obj\Debug\BoogieWoogie.pdb
